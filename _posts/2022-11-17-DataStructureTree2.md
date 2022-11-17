@@ -7,7 +7,7 @@ title:  "알고리즘 자료구조 - Tree 구현해보기"
 <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
 <script defer src="https://pyscript.net/latest/pyscript.js"></script>
 
-* ## 1. Linked List 로 Tree 구현
+* ## Linked List 로 Tree 구현
 
 > Node Class
 
