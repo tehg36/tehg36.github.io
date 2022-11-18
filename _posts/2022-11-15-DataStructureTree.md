@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "알고리즘 자료구조 - Tree"
+title:  "알고리즘 자료구조 - Tree (노드탐색 - 이론)"
 ---
 
 > # 대표적인 데이터 구조 : 트리 (Tree)
