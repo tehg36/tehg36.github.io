@@ -27,14 +27,13 @@ Scene with post-processing (출처 : Unity Documentation)
 </figure>
 
 > ## 랜더링 파이프라인과의 호환성
-</br>
-Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다 </br>
-그 중 현재 사용하는 `URP (Universal Render Pipeline)` 의 경우를 알아보자 </br>
-</br>
 
-기본적으로 `URP` 에는 `Post-Processing` 패키지가 포함되어있다 </br>
+Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다</br>
+그 중 현재 사용하는 `URP (Universal Render Pipeline)` 의 경우를 알아보자</br>
+
+기본적으로 `URP` 에는 `Post-Processing` 패키지가 포함되어있다</br>
 > URP 는 Post Processing Stack v2 패키지와 호환되지 않습니다
-</br>
+
 <p align="center">
 <img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Post-Processing%20Package.png" width="500">
 <p>
@@ -64,7 +63,7 @@ Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다 </br>
 ### 4. Volume 구성요소에 Volume Overrides 를 추가하여 효과 추가
 
 <p align="center">
-<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-add-override.png" width="400">
+<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-add-override.png" width="350">
 <p>
 
 > ## VR용 URP 의 Post-Processing
