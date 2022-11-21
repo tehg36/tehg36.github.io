@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "유니티 - Post Processing 기본구성"
+categories: UnityTech
+tag: [Blog, Study, Unity, C#, Tech, PostProcessing]
+toc: true
 ---
 
 > ## Post Processing
@@ -33,35 +36,35 @@ Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다 </br>
 > URP 는 Post Processing Stack v2 패키지와 호환되지 않습니다
 </br>
 <p align="center">
-<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Post-Processing%20Package.png" width="400">
+<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Post-Processing%20Package.png" width="500">
 <p>
 
 > ## 새로운 Scene에서 Post-Processing 구성하기
 
-1. 카메라를 선택하고 Post Processing 체크 확인
+### 1. 카메라를 선택하고 Post Processing 체크 확인
 
 <p align="center">
-<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/camera-post-proc-check.png" width="250" height="200">
+<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/camera-post-proc-check.png" width="300" >
 <p>
 
-2. Scene 에 Volum 컴포넌트가 포함된 게임오브젝트 생성
+### 2. Scene 에 Volum 컴포넌트가 포함된 게임오브젝트 생성
    * Gameobject > Volume > Global Volume 으로 생성가능
 
 <p align="center">
-<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Create-Volume.png" width="300" height="150">
+<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Create-Volume.png" width="300">
 <p>
 
 
-3. Global Volume 게임 오브젝트 선택, Volume 컴포넌트에서 profile 속성 우측의 New 버튼 클릭하여 새로운 Profile 생성
+### 3. Global Volume 게임 오브젝트 선택, Volume 컴포넌트에서 profile 속성 우측의 New 버튼 클릭하여 새로운 Profile 생성
 
 <p align="center">
-<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-new-profile.png" width="350" height="150">
+<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-new-profile.png" width="400">
 <p>
 
-4. Volume 구성요소에 Volume Overrides 를 추가하여 효과 추가
+### 4. Volume 구성요소에 Volume Overrides 를 추가하여 효과 추가
 
 <p align="center">
-<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-add-override.png" width="300" height="200">
+<img src="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/images/post-proc/volume-new-scene-add-override.png" width="400">
 <p>
 
 > ## VR용 URP 의 Post-Processing

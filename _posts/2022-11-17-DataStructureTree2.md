@@ -1,15 +1,18 @@
 ---
 layout: single
 title:  "알고리즘 자료구조 - Tree (노드탐색 - 구현)"
+categories: DataStructure
+tag: [Blog, Study, Algorithm, DataStructure, Tree]
+toc: true
 ---
 
 <!-- <link rel="icon" type="image/png" href="favicon.png" />
 <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
 <script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
 
-* ## Linked List 로 Tree 구현
+> ## Linked List 로 Tree 구현
 
-> Node Class
+* ### Node Class
 
 ```python
 class Node:
@@ -19,7 +22,7 @@ class Node:
         self.right = None
 ```
 
-> Binary Search Tree
+* ### Binary Search Tree
 
 ```python
 class NodeManagement:
@@ -59,7 +62,7 @@ class NodeManagement:
         return False
 ```
 
-> 코드 실행 구문
+* ### 코드 실행 구문
 
 ``` python
 Node(1)

@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "알고리즘 자료구조 - Tree (노드삭제 - 이론)"
+categories: DataStructure
+tag: [Blog, Study, Algorithm, DataStructure, Tree]
+toc: true
 ---
 
 > ## 이진탐색트리의 삭제

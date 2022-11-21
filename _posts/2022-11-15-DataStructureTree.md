@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "알고리즘 자료구조 - Tree (노드탐색 - 이론)"
+categories: DataStructure
+tag: [Blog, Study, Algorithm, DataStructure, Tree]
+toc: true
 ---
 
 > # 대표적인 데이터 구조 : 트리 (Tree)
