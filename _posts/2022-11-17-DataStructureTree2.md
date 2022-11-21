@@ -3,9 +3,9 @@ layout: single
 title:  "알고리즘 자료구조 - Tree (노드탐색 - 구현)"
 ---
 
-<link rel="icon" type="image/png" href="favicon.png" />
+<!-- <link rel="icon" type="image/png" href="favicon.png" />
 <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
-<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+<script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
 
 * ## Linked List 로 Tree 구현
 
@@ -76,11 +76,11 @@ BST.search(3) # True 반환
 BST.search(-1) # False 반환
 ```
 
-<body>
+<!-- <body>
     <h2><b>코드 직접 실행해보기</b></h2>
     Tip: Shift-ENTER를 누르면 코드가 실행됩니다
     <br>
     <div>
       <py-repl id="my-repl" auto-generate="true"> </py-repl>
     </div>
-</body>
+</body> -->
