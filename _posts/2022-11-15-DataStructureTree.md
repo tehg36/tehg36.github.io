@@ -20,9 +20,9 @@ toc: true
 - __Child Node__: 어떤 노드의 하위에 연결된 노드
 - __Leaf Node__ (Terminal Node): Child Node가 하나도 없는 노드
 - __Sibling__ (Brother Node): 동일한 Parent Node를 가진 노드
-- __Depth__: 트리에서 Node가 가질 수 있는 최대 Level</br></br>
+- __Depth__: 트리에서 Node가 가질 수 있는 최대 Level<br/><br/>
 
-![Tree](../images/2022-11-15-DataStructureTree_posting/treeDesc.png)
+![Tree](https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-11-15-DataStructureTree_posting/treeDesc.png?raw=true)
 
 ## 3. 이진 트리 (Binary Tree) 와 이진 탐색 트리 (Binary Search Tree)
 - 두 개가 같아보이지만 서로 다른것이므로 알고가자
