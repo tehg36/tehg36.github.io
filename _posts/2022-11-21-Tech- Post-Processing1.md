@@ -35,7 +35,7 @@ Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다</br>
 > URP 는 Post Processing Stack v2 패키지와 호환되지 않습니다
 
 <p align="center">
-<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Post-Processing%20Package.png" width="500">
+<img src="https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-11-21-Tech-%20Post-Processing1_posting/Post-Processing%20Package.png?raw=true" width="500">
 <p>
 
 > ## 새로운 Scene에서 Post-Processing 구성하기
@@ -50,7 +50,7 @@ Unity에서 각 Render Pipeline 마다의 설정과 적용법이 다르다</br>
    * Gameobject > Volume > Global Volume 으로 생성가능
 
 <p align="center">
-<img src="../images/2022-11-21-Tech-%20Post-Processing1_posting/Create-Volume.png" width="300">
+<img src="https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-11-21-Tech-%20Post-Processing1_posting/Create-Volume.png?raw=true" width="300">
 <p>
 
 
