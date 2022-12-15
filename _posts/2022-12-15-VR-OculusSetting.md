@@ -86,4 +86,9 @@ toc: true
 
 ![UnityScene](https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-12-15-VR-OculusSetting_posting/SceneSetting.png)
 
-![PlayVideo](https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-12-15-VR-OculusSetting_posting/UnityScenePlayWithOculus.mp4)
+<!-- ![PlayVideo](https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-12-15-VR-OculusSetting_posting/UnityScenePlayWithOculus.mp4) -->
+
+<video>
+    <source src="https://github.com/tehg36/tehg36.github.io/blob/master/images/2022-12-15-VR-OculusSetting_posting/UnityScenePlayWithOculus.mp4"
+    type="video/mp4">
+</video>
