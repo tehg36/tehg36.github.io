@@ -35,13 +35,16 @@ def BubbleSort(data):
             break
     return data
 ```
+
 * 실행 구현
 ```python
+
 import random
 
 data_list = random.sample(range(100), 50)
 
 print(BubbleSort(data_list))
+
 ```
 
 ## 3. 알고리즘 분석
