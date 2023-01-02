@@ -13,7 +13,7 @@ toc: true
 1. Create Unity Project
     1. 프로젝트 생성
     
-    ![CreateProject](/images/2022-12-15-VR-OculusSetting_posting/AssetStore.png)
+    ![CreateProject](/images/2022-12-15-VR-OculusSetting_posting/ProjectCreate.png)
     2. 버전선택, 코어선택, 프로젝트이름 설정
     
     ![CreateProject_versionSelect](/images/2022-12-15-VR-OculusSetting_posting/ProjectCreateSetting.png)
