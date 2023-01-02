@@ -44,6 +44,6 @@ print(InsertionSort(data_list))
 
 ## 3. 알고리즘 분석
 
-* 시간 복잡도 : O($n^2$) - 반복문이 두개
-  * 최악의 경우, <font size=5em>$\frac { n * (n - 1)}{ 2 }$</font>
-* 완전 정렬이 되어있는 상태라면 최선은 O(n)
+* 시간 복잡도 : $O(n^2)$ - 반복문이 두개
+  * 최악의 경우, <font size=5em>$\frac{ n * (n - 1)}{ 2 }$</font>
+* 완전 정렬이 되어있는 상태라면 최선은 $O(n)$
