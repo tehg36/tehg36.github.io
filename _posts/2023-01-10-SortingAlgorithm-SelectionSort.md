@@ -55,4 +55,3 @@ $O(n^2)$
   <font size=5em>
   $\frac{ n * (n - 1)}{ 2 }$
   </font>
-$O(n)$
