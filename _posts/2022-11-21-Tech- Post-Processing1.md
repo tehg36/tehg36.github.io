@@ -2,7 +2,7 @@
 layout: single
 title:  "유니티 - Post Processing 기본구성"
 categories: UnityTech
-tag: [Blog, Study, Unity, C#, Tech, PostProcessing]
+tag: [Study, Unity, C#, Tech, PostProcessing]
 toc: true
 ---
 

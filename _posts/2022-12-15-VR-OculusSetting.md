@@ -2,7 +2,7 @@
 layout: single
 title:  "유니티 - Oculus VR Setting"
 categories: VR
-tag: [Blog, Study, Unity, C#, Tech, VR, Oculus]
+tag: [Study, Unity, C#, Tech, VR, Oculus]
 toc: true
 ---
 
@@ -78,7 +78,7 @@ toc: true
 
     ![RenderingSetting](/images/2022-12-15-VR-OculusSetting_posting/RenderingSettings.png)
 
-> ## 셋팅이 작 적용되었는지 확인
+> ## 셋팅이 잘 적용되었는지 확인
 
 1. Scene 생성 후 Main Camera 제거
 2. OVRCameraRig 프리팹을 Hierarchy 창에 끌어다 놓는다
