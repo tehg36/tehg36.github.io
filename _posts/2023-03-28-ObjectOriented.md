@@ -10,7 +10,7 @@ toc: true
  `객체 지향 프로그래밍`은 프로그램 구현에 필요한 객체를 파악하고 각각의 객체들의 역할이 무엇인지를 정의하여, 객체들 간의 상호작용을 통해 프로그램을 만드는 것을 말한다. 객체는 클래스라는 틀에서 생겨난 실체(instance)이다. 따라서 객체 지향 프로그램은 객체와 객체간의 연결로 되어있으며 각각의 객체 안에 자료구조와 알고리즘이 들어있는 것이다.
 
  ## 절차 지향과 객체 지향
- ![SetTargetPlatform](/images/2023-03-28-ObjectOriented_posting/ObjectOrientedVSProcedural.png){: align-center}
+ ![ObjectOrientedVSProcedural](/images/2023-03-28-ObjectOriented_posting/ObjectOrientedVSProcedural.png){: align-center}
 
  > 출처 : <https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F998992425B3768AA23>
 
