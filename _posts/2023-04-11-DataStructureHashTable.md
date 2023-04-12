@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "알고리즘 자료구조 - HashTable"
+title:  "알고리즘 자료구조 - 해시테이블(HashTable)"
 categories: DataStructure
 tag: [Study, Algorithm, DataStructure, HashTable]
 toc: true
