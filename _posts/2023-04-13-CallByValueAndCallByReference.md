@@ -71,5 +71,6 @@ int main()
 > 위의 C++ 로 구현된 코드는 Swap을 진행하면 변수 a, b의 값이 변했다.
 
 > ### Call By Value VS Call By Reference
-  * Call By Value : 값을 직접 넘기기 때문에 원본 유지 가능, 추가 메모리 사용
-  * Call By Reference : 값이 아닌 주소값을 넘기기 때문에 원본 변경 가능성있다, 추가 메모리를 사용하지 않는다.
+
+* Call By Value : 값을 직접 넘기기 때문에 원본 유지 가능, 추가 메모리 사용
+* Call By Reference : 값이 아닌 주소값을 넘기기 때문에 원본 변경 가능성있다, 추가 메모리를 사용하지 않는다.
